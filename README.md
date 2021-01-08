@@ -4,7 +4,7 @@
 # Drum kit
 ### JavaScript mini music application
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 Site published at https://vaidaeg.github.io/28-drum-kit/
 
